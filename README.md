@@ -1,8 +1,10 @@
-100 Days of JavaScript
-Collection of AsmrProg Youtube Channel 100 days of JavaScript Coding Playlist Codes!
+# 100 Days of JavaScript
+
+## My community has prepared these codes with sufficient knowledge of Javascript, HTML & style.css. You still need to have sufficient knowledge of VSCode to run the codes. You can use the codes as you wish, and you can also support me by starring the work. Stay tuned for new works!
 
 
-Projects
+# Projects
+
 Here we have list of projects:
 
 1. Pixel Art Generator
