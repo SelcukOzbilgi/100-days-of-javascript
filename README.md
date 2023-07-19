@@ -6,5 +6,6 @@ Projects
 Here we have list of projects:
 
 1. Pixel Art Generator
+2. Rich Text Editor
 
 
