@@ -11,5 +11,6 @@ Here we have list of projects:
 2. Rich Text Editor
 3. Pass Generator
 4. QR Code Generator
+5. Detect Device Battery
 
 
