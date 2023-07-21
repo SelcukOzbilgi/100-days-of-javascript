@@ -12,5 +12,6 @@ Here we have list of projects:
 3. Pass Generator
 4. QR Code Generator
 5. Detect Device Battery
+6. Simple XO Game
 
 
