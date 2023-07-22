@@ -13,5 +13,6 @@ Here we have list of projects:
 4. QR Code Generator
 5. Detect Device Battery
 6. Simple XO Game
+7. Flip a Coin Game
 
 
