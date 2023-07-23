@@ -15,5 +15,6 @@ Here we have list of projects:
 6. Simple XO Game
 7. Flip a Coin Game
 8. Multi Step Form
+9. Aspect Ratio Calculator
 
 
