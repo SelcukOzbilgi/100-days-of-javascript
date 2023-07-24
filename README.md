@@ -17,6 +17,7 @@ Here we have list of projects:
 8. Multi Step Form
 9. Aspect Ratio Calculator
 10. Weather App
+11. Movie Info App
 
 
 
