@@ -18,6 +18,7 @@ Here we have list of projects:
 9. Aspect Ratio Calculator
 10. Weather App
 11. Movie Info App
+12. Type Test App
 
 
 
