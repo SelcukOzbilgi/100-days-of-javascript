@@ -20,6 +20,7 @@ Here we have list of projects:
 11. Movie Info App
 12. Type Test App
 13. Translator App
+14. Crypto Price App
 
 
 
