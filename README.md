@@ -19,6 +19,7 @@ Here we have list of projects:
 10. Weather App
 11. Movie Info App
 12. Type Test App
+13. Translator App
 
 
 
