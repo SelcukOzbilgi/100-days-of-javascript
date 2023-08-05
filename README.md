@@ -21,6 +21,7 @@ Here we have list of projects:
 12. Type Test App
 13. Translator App
 14. Crypto Price App
+15. ToDo App
 
 
 
