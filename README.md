@@ -23,6 +23,7 @@ Here we have list of projects:
 14. Crypto Price App
 15. ToDo App
 16. Geometric Art Generator
+17. Snake Game
 
 
 
